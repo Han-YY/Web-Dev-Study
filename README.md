@@ -2,4 +2,4 @@
 The assignment and the other essential files for my study in the Coursera course 'HTML, CSS and Javascript for Web Developers'.
 ## List of my assignments:
 [Module 2](https://han-yy.github.io/Web-Dev-Study/module2-solution/index.html)
-[Module 3](https://han-yy.github.io/Web-Dev-Study/module2-solution/index.html)
+<br>[Module 3](https://han-yy.github.io/Web-Dev-Study/module3-solution/index.html)
